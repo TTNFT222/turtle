@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xbcf8a596cd12eab0ad267489e43b03ebf026fdc4",
+  "SCAN_LINK": "https://polygonscan.com/token/0xbcf8a596cd12eab0ad267489e43b03ebf026fdc4",
+  "NETWORK": {
+    "NAME": "Etherium",
+    "SYMBOL": "Eth",
+    "ID": 1
+  },
+  "NFT_NAME": "Tacky Turtles NFT",
+  "SYMBOL": "TTNFT",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 0.04,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/tacky-turtles",
+  "SHOW_BACKGROUND": true
+}
